@@ -1,0 +1,30 @@
+# Ignore crack binaries, keys, and runtime dumps
+*.bin
+*.dll
+*.exe
+*.zip
+*.7z
+*.rar
+*.tar.*
+*.pdb
+*.key
+*.log
+*.pfx
+
+# Directories
+dist/
+app/
+hook/
+rt/
+tools/
+build/
+bin/
+obj/
+node_modules/
+.venv/
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
